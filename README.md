@@ -11,7 +11,7 @@
 
 ## Resources / Images used:
 
-* [Wikipedia, The Witcher](https://en.wikipedia.org/wiki/The_Witcher): from where I used links to the games, tv series and novels, as well as various.
+* [Wikipedia, The Witcher](https://en.wikipedia.org/wiki/The_Witcher): from where I used links to the games, tv series and novels, as well as various images.
       
 * [Artstation, Marcin Blaszczak](https://www.artstation.com/mblaszczak): for the Leshen image.
 
